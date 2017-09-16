@@ -6,3 +6,6 @@ Here you will find important notes about class and links that are useful for hom
 
 #### Week 1:
 * Prophet Adam
+
+#### Week 2:
+* [Prophet Idris](https://www.youtube.com/watch?v=T2_7Y4Jrg0k)
